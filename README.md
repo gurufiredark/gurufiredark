@@ -8,8 +8,3 @@
   ![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
   ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
   ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-  ### Contato
-
-   [![EMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gurufiredark@gmail.com)
-
